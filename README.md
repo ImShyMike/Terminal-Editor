@@ -2,6 +2,14 @@
 
 Simple, [nano](https://www.nano-editor.org) like CLI text editor. Made using [textual](https://textual.textualize.io).
 
+## Usage
+
+```sh
+main.py <filename>
+```
+
+(The filename parameter is optional)
+
 ## Features
 
 - File opening/saving
